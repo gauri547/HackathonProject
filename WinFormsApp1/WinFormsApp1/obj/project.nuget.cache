@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RcalrLTKqttCJpBnQxWoJ98etbzVfvG4DA6wW/rEZSgA04ABWaOTNHuFGJ/4q4wkSFDJBfO3UnsuEYDOscQyog==",
+  "success": true,
+  "projectFilePath": "D:\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arpit.somani\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512"
+  ],
+  "logs": []
+}
